@@ -1,0 +1,118 @@
+Otol Neurotol. Author manuscript; available in PMC 2015 Feb 19.
+Published in final edited form as:
+Otol Neurotol. 2013 Oct; 34(8): 1519–1527.
+doi:  10.1097/MAO.0b013e3182956169
+PMCID: PMC4334125
+NIHMSID: NIHMS663150
+Natural Compounds as Potential Treatments of NF2-Deficient Schwannoma and Meningioma: Cucurbitacin D and Goyazensolide
+Samuel A. Spear,1,2,* Sarah S. Burns,1,2 Janet L. Oblinger,1,2 Yulin Ren,4 Li Pan,4 A. Douglas Kinghorn,4 D. Bradley Welling,2 and Long-Sheng Chang1,2,3
+Author information ► Copyright and License information ►
+The publisher's final edited version of this article is available at Otol Neurotol
+See other articles in PMC that cite the published article.
+Go to:
+Abstract
+Hypothesis
+
+Cucurbitacin D and goyazensolide, two plant-derived natural compounds, possess potent growth-inhibitory activity in schwannoma and meningioma cells.
+
+Background
+
+Currently, no FDA-approved drugs are available for neurofibromatosis type 2 (NF2)-associated schwannomas and meningiomas. Selected natural compounds with antineoplastic activity, such as cucurbitacin and goyazensolide, may be developed as potential treatments for these tumors.
+
+Methods
+
+The Nf2-deficient mouse schwannoma Sch10545 and human benign meningioma Ben-Men-1 cells were treated with various concentrations of cucurbitacin D and goyazensolide. The effect on cell proliferation was determined using resazurin assays. Flow cytometry was used to assess the cell cycle profiles. Western blot analysis was performed to investigate the expression of various signal molecules related to the cell cycle and the AKT pathway.
+
+Results
+
+Cucurbitacin D inhibited proliferation of Sch10545 cells (IC50 ~0.75 μM) and Ben-Men-1 cells (IC50 ~0.2 μM). Goyazensolide also reduced cell proliferation of Sch10545 cells (IC50 ~0.9 μM) and Ben-Men-1 cells (IC50 ~1 μM). The G2/M population increased in both Sch10545 and Ben-Men-1 cells treated with cucurbitacin D or goyazensolide around the IC50. Cucurbitacin and goyazensolide substantially reduced the levels of cyclins E and A in treated Sch10545 and Ben-Men-1 cells. Cucurbitacin D also inhibited cyclin B, phospho-AKT and phospho-PRAS40 expression. In addition, goyazensolide reduced the levels of phospho-AKT and NFκB and increased the expression of pro-apoptotic Bim in Sch10545 and Ben-Men-1 cells.
+
+Conclusions
+
+Both cucurbitacin D and goyazensolide effectively inhibit proliferation of NF2-deficient schwannoma and meningioma cells, suggesting that these natural compounds should be further evaluated as potential treatments for NF2-related tumors.
+
+Keywords: Natural compounds, vestibular schwannoma, meningioma, neurofibromatosis type 2 (NF2), cucurbitacin D, goyazensolide
+Go to:
+INTRODUCTION
+Neurofibromatosis type 2 (NF2) is an autosomal-dominant hereditary cancer syndrome characterized by the development of bilateral vestibular schwannomas, meningiomas, spinal schwannomas, and ependymomas1. Bilateral vestibular schwannomas, which arise from Schwann cells that ensheath and myelinate nerve cells of cranial nerve VIII, are the hallmark of NF2. Meningiomas, which derive from the arachnoidal cap cells of the meninges covering the spinal cord and brain, affect 50–60% of NF2 patients1. Clinical symptoms caused by the NF2-associated tumors include hearing loss, tinnitus, vertigo and balance abnormalities, facial paralysis, hydrocephalus, blindness, cranial nerve palsy, seizures, brainstem compression, and other cranial nerve symptoms, such as hoarseness, dysphagia, and aspiration.
+
+Current treatment considerations for NF2-associated tumors include observation, surgery, and radiation therapy. None may be sufficient, however, in patients with high tumor burden, recurrence and involvement of surrounding critical structures. While surgical resection may temporarily alleviate symptoms caused by the tumors or prevent new symptoms from developing, it may cause significant morbidities, including hearing loss, facial paralysis, dizziness, intracranial bleeding, stroke, or even death. Radiation therapy may stop or slow tumor growth or decrease tumor size in some patients, but the risk for malignant transformation and growth acceleration of schwannomas and meningiomas must be considered2. Failure to control growth via stereotactic radiation is higher in NF2-associated tumors than in the more common sporadic vestibular schwannomas. Therefore, new treatment options need to be investigated, particularly in light of recent advances in the understanding of tumor-specific signaling pathways and improved cell culture and mouse models for NF2-associated tumors3.
+
+One area of promise in developing a medical therapy is to identify selected natural compounds with antineoplastic activity and test them in NF2-associated tumors. Natural compounds have been used for thousands of years and are the basis for many current antitumor drugs; for example, taxol (now named paclitaxel), one of the most effective drugs against breast and ovarian cancer, was isolated from the bark of the Pacific yew tree in the early 1970’s and was later partially chemically synthesized for clinical use4. Natural compounds may also inhibit other cellular processes for preventative use4 and could benefit benign and slow-growing tumors that require long-term treatment. Identification of anticancer natural compounds has been promoted by the National Cancer Institute via large-scale anticancer drug discovery and screening programs4.
+
+Cucurbitacin D, a tetracyclic triterpenoid, and goyazensolide, a sesquiterpene lactone, are two unrelated natural compounds first identified in medicinal plants and trees (Figure 1A) and have been shown to have anticancer effects and cytotoxic activities in several types of human cancer5. Cucurbitacins, initially isolated from plants of the family Cucurbitaceae, are known to induce cancer cell death and inhibit the JAK-STAT and MAPK signaling pathways6–7; cucurbitacin D, one of the most potent biologically-active cucurbitacins, has been shown to inhibit proliferation of HT-29 human colon carcinoma cells8. Like cucurbitacins, sesquiterpene lactones comprise a large diverse group of compounds; of which, some possess antitumor effects and can suppress NFκB activity9. Goyazensolide, a sesquiterpene lactone isolated from Piptocoma rufescens, has also been shown to be highly cytotoxic to HT-29 cells10.
+
+Figure 1Figure 1Figure 1
+Figure 1
+Both Cucurbitacin D and goyazensolide effectively inhibited proliferation of Sch10545 schwannoma and Ben-Men-1 meningioma cells. The molecular structures ...
+In this study, we investigated the cell-cycle and antitumor effects of cucurbitacin D and goyazensolide in NF2-deficient meningioma and schwannoma cells. We showed that both of these natural compounds effectively suppressed the growth of schwannoma and meningioma cells, induced cell-cycle arrest at G2/M, and affected the expression of multiple signaling molecules. Our results suggest that these natural compounds should be considered for further evaluation in animal models of NF2-related tumors.
+
+Go to:
+MATERIALS AND METHODS
+Natural Compound Acquisition
+
+As part of an ongoing multi-institutional program for the discovery of new anticancer agents from plants5, cucurbitacin D was isolated along with several other natural compounds from the fruits and stem bark of Elaeocarpus chinensis (Elaeocarpaceae) collected in Vietnam8. Another compound identified from this drug discovery program was goyazensolide, a sesquiterpene lactone from the plant Piptocoma rufescens (Asteraceae) collected in the Dominican Republic10. These natural compounds were purified and diluted to 10 mM in DMSO for further study.
+
+Cell Culture
+
+An Nf2-deficient mouse schwannoma cell line, Sch10545, was established from a tumor developed in a P0Cre;Nf2flox/flox mouse with conditional Nf2 inactivation in Schwann cells11. Ben-Men-1 is a telomerase-immortalized benign human meningioma cell line established from a grade I meningioma12. Both Sch10545 schwannoma and Ben-Men-1 meningioma cells were grown in Dulbecco-modified Eagle’s (DME) medium supplemented with 10% fetal bovine serum (FBS).
+
+Cell Proliferation Assay
+
+Sch10545 and Ben-Men-1 cells were plated in 96-well plates at a density of 5,000 cells/well and grown at 37°C. The following day, cells were treated with various concentrations of cucurbitacin D and goyazensolide as well as DMSO as a vehicle control at 37°C for 72 hours. Cell proliferation was measured by adding resazurin to treated cells, followed by incubation at 37°C for 1~4 hours13. A microplate reader (Molecular Devices) was used to measure fluorescence emission (excitation at 544 nm and emission at 590 nm), and the results were used to calculate the 50% inhibitory concentration (IC50) according to Lee et al.14
+
+Flow Cytometry
+
+Cells were freshly plated in 10-cm dishes overnight and then treated with increasing concentrations of cucurbitacin D or goyazensolide at 37°C for 24 and 48 hours. Control cells were treated with DMSO. Treated cells were photographed and then harvested by trypsinization, followed by washing with cold phosphate buffered saline (PBS) and centrifugation. The cell pellet was resuspended in 1 ml of PBS and fixed by adding 3 ml of ice-cold ethanol slowly while vortexing. Fixed cells were spun down and stained in propidium iodide (50 μg/ml) and RNase A (100 μg/ml) at 37°C for 1–3 hours in the dark. Stained cells were kept on ice until they were analyzed with a FACS Calibur flow cytometer (BD Biosciences). Data analysis was performed using FlowJo software (Tree Star).
+
+Western Blot Analysis
+
+Subconfluent Sch10545 and Ben-Men-1 cells were treated with various concentrations of cucurbitacin D or goyazensolide at 37°C for 24 and 48 hours. Treated cells were harvested and lysed in RIPA buffer containing proteases and phosphatase inhibitor cocktails (Sigma-Aldrich). The protein concentrations of clear lysates were determined by Bradford Assay. Equal amounts of protein (20 μg each) were electrophoresed in 8% or 10% SDS-polyacrylamide gels, and fractionated proteins were electroblotted onto an Immobilon-P membrane (Millipore). Following protein transfer, the membrane was blocked with 5% non-fat dry milk in TBST (10 mM Tris-buffered saline and 0.05% Tween 20) at room temperature for 1 hour. The primary antibody was applied (1:500–1:2000 dilution) and incubated at 4°C overnight. The membrane was washed with TBST three times, and the secondary antibody (1:5,000 dilution) was added at room temperature for 1 hour. Following washing, the membrane was incubated with the Pierce ECL-2 Western Blotting Reagent for 5 minutes and the chemiluminescence activity was captured by exposure to X-ray films.
+
+Primary antibodies used include: cyclin A, cyclin B1, cyclin D2, cyclin E1, cyclin H, Aurora A and B, PRAS40, BclXL, and BimEL, phospho-PRAS40, S6, phospho-S6, AKT, and phospho-AKT (Cell Signaling Technology), as well as cyclin A, NFκB (p65), CDC2, CDK7, PCNA, p27KIP1, and p57KIP2 (Santa Cruz Biotechnology). Secondary antibodies used were horse-radish peroxidase-conjugated goat anti-mouse or anti-rabbit IgG (Cell Signaling Technology).
+
+Go to:
+RESULTS
+Cucurbitacin D and goyazensolide efficiently inhibit proliferation of schwannoma and meningioma cells
+
+To search for natural compounds that can inhibit the growth of NF2-deficient schwannoma and meningioma cells, we tested compounds that have already been shown to be highly cytotoxic for one or more cancer cell lines8,10,15 and identified cucurbitacin D and goyazensolide as two compounds that exhibit potent growth inhibitory activities. As shown in Figure 1B, proliferation of Sch10545 schwannoma cells decreased below 50% with the addition of 1.25 μM of goyazensolide, relative to control DMSO-treated cells (IC50 = ~0.9 μM). Likewise, proliferation of Ben-Men-1 meningioma cells fell below 50% in the presence of 1.25 μM of goyazensolide (IC50 = ~1 μM; Figure 1C). Using similar assays, we also determined the IC50 value for cucurbitacin D to be ~0.75 μM and ~0.2 μM in Sch10545 schwannoma and Ben-Men-1 meningioma cells, respectively.
+
+The growth-inhibitory effects of cucurbitacin D and goyazensolide could be directly visualized in drug-treated Sch10545 and Ben-Men-1 cells. Decreased cell density and increased round and presumably dead cells were observed with increasing doses of cucurbitacin D. Also, changes in cell morphology including pleomorphic cells with abnormal nuclear structure resembling multinucleation were noted (Figure 2A), consistent with previous reports of human cancer cell lines exposed to cucurbitacins7. Similar changes in cell density were seen in goyazensolide-treated Sch10545 and Ben-Men-1 cells (Figure 2B). However, the effect of goyazensolide on cell structures was not as prominent as that of cucurbitacin (compare Figure 2B with Figure 2A).
+
+Figure 2Figure 2
+Figure 2
+Images of Sch10545 and Ben-Men-1 cells treated with cucurbitacin D or goyazensolide
+Cucurbitacin D and goyazensolide induced cell cycle arrest at G2/M in both schwannoma and meningioma cells
+
+To examine the effects of cucurbitacin D and goyazensolide on cell cycle progression of Sch10545 and Ben-Men-1 cells, we performed flow cytometry analysis. When Sch10545 cells were treated with cucurbitacin D at concentrations near the IC50 (0.5 or 1.0 μM), the percentage of cells at G2/M increased from 17.6% to 25.4% and 38%, respectively, compared with control DMSO-treated cells (Figure 2). An increase in the G2/M population was also observed in Ben-Men-1 cells treated with the concentrations of cucurbitacin D around the IC50 (0.125 or 0.25 μM) from 14.9% to 34.0% and 39.3%, respectively. Similarly, goyazensolide treatment also led to G2/M arrest in schwannoma and meningioma cells. A dramatic increase in the G2/M population of Sch10545 cells treated with goyazensolide at the concentrations around the IC50 (0.5, 1, and 2 μM) was observed (from 17.6% to 49.3%, 55.45, and 63.9%, respectively in Figure 3). Ben-Men-1 cells treated with goyazensolide at concentrations near the IC50 also showed a substantial increase of cells at G2/M (from 14.9% to 35.8% at 2 μM). These results indicate that cucurbitacin D and goyazensolide induced G2/M arrest in both schwannoma and meningioma cells.
+
+Figure 3Figure 3
+Figure 3
+Cucurbitacin D and goyazensolide induced cell cycle arrest at G2/M in treated Sch10545 and Ben-Men-1 cells
+Both cucurbitacin D and goyazensolide reduced the levels of cyclins E, A, and B in treated cells
+
+To better understand how these two natural compounds caused G2/M arrest in Sch10545 schwannoma and Ben-Men-1 meningioma cells, Western blot analysis for various cell-cycle signaling molecules was conducted. A dose-dependent reduction of the cyclin B1 level was seen in Sch10545 cells treated with increasing concentrations of cucurbitacin D (Figure 4A). We also observed a slight decrease in cyclin E1 expression in cucurbitacin D-treated cells, while little or no change in the levels of cyclins D2 and H was found. Cucurbitacin D also reduced the levels of cyclins E1, A, and B1 in Ben-Men-1 cells. Consistent with G2/M arrest, the expression of PCNA, an S-phase induced protein, was not affected by cucurbitacin treatment in Sch10545 and Ben-Men-1 cells, while a slight decrease in CDC2 expression was noted (Figure 4B). Also, the levels of CDK inhibitors, p27KIP1 and p57KIP2, were not changed by cucurbitacin D treatment. Similarly, goyazensolide inhibited the expression of cyclins D2, E1, and A in Sch10545 cells and decreased the levels of cyclins E1 and A in Ben-Men-1 cells (Figure 5A) while little or no change in the levels of PCNA, cyclin H, and CDK7was found. Taken together, these results suggest that the G2/M arrest induced by cucurbitacin D and goyazensolide is mediated in part through the reduction in the protein levels of multiple cyclins.
+
+Figure 4Figure 4Figure 4
+Figure 4
+The effect of cucurbitacin D on the expression of various cell-cycle signaling proteins in Sch10545 and Ben-Men-1 cells
+Figure 5Figure 5
+Figure 5
+Expression of various cell-cycle, NFκB (p65), and phospho-AKT proteins in goyazensolide-treated Sch10545 and Ben-Men-1 cells
+Consistent with previous reports10,16, goyazensolide reduced the level of the p65 subunit of NFκB in both Sch10545 and Ben-Men-1 cells. Curiously, cucurbitacin D treatment decreased the levels of phospho-AKT and its downstream target phospho-PRAS40 in a dose-dependent manner in Ben-Men-1 cells, while little or no change in the expression of total AKT and PRAS40 was seen (Figure 4C). In addition, we observed decreased phospho-AKT levels in both Sch10545 and Ben-Men-1 cells treated with goyazensolide (Figure 5B). As AKT is a pro-survival serine/threonine kinase, these results suggest that reduction of activated, phosphorylated AKT may result in decreased cell survival in cells treated with these natural compounds. Consistent with decreased cell viability, goyazensolide treatment modestly increased the expression of Bim, a pro-apoptotic factor, in Sch10545 and Ben-Men-1 cells, while the level of the anti-apoptotic BclXL was not affected by the treatment (Figure 5B).
+
+Go to:
+DISCUSSION
+The natural history of NF2 is unpredictable as NF2-related intracranial tumors may exhibit linear growth, exponential growth, saltatory growth, or periods of quiescence with the most frequent being a saltatory growth pattern17. Surgical resection of tumors or radiation therapy may be reserved for symptom-producing tumors, leaving observation as the only alternative. Therefore, new medical therapies are needed. In this study, we demonstrated the potent growth-inhibitory activity of two natural compounds, cucurbitacin D and goyazensolide, in NF2-deficient schwannoma and meningioma cells.
+
+Natural compounds as anticancer regimens have produced significant results in the past; however, they have not been rigorously evaluated in benign tumors, such as vestibular schwannomas and meningiomas. Caffeic acid phenethyl ester (CAPE)-based extracts and artepillin C-based propolis from bee wax have been shown to suppress the growth of an NF1-deficient malignant peripheral nerve sheath tumor cell line and a human papillomavirus E6/7 oncogene-immortalized vestibular schwannoma cell line, HEI-19318–19; however, the mechanisms by which CAPE and artepillin C suppress tumor growth are not understood. Curcumin found in turmeric, a spice derived from the rhizomes of Curcuma longa of the ginger family, was found to inhibit the growth of HEI-193 cells by down-regulating the phosphorylation of AKT and ERK1/220. Honokiol, a lignan found in Magnolia grandiflora was also shown to exhibit antiproliferative activity in HEI-193 and inhibit ERK phosphorylation21. However, none of these compounds has been tested in other NF2-relevant models and their toxicity profiles are largely unknown.
+
+Triterpenoid natural products from medicinal plants, such as the cucurbitacins, have been shown to exhibit anti-bacterial and anti-inflammatory effects. Extracts from plants in the family Cucurbitaceae have long been used in oriental medicines for their hepatoprotective effects as well as anti-inflammatory and anti-diabetic effects21. Importantly, cucurbitacins induce cancer cell death6. Cucurbitacin B has been shown to induce cell-cycle arrest, apoptosis and autophagy22. Cucurbitacin IIa can cause non-reversible actin aggregation6. Cucurbitacin I can inhibit the growth of NF1-deficient malignant peripheral nerve sheath tumor cells by inducing apoptosis23. Also, cucurbitacin D isolated from Trichosanthes kirilowii, of which the root tuber has been used to reset menstruation and expel retained placenta in China, can inhibit the growth of some symbiotic bacteria of entomopathogenic nematodes24 and induce apoptosis in human hepatocellular carcinoma cells in vitro25. In addition, cucurbitacin D has been shown to suppress proliferation of HT-29 human colon cancer cells8. Consistently, we showed that cucurbitacin D isolated from Elaeocarpus chinensis effectively inhibits the growth of NF2-deficient schwannoma and meningioma cells.
+
+Like cucurbitacins, sesquiterpene lactones, including goyazensolide, exhibit antitumor activity. Initial bioassay screening results showed the majority of the isolated sesquiterpene lactones to be cytotoxic toward HT-29 colon cancer cells10 and to inhibit NFκB activity9. Similarly, we found that goyazensolide isolated from Piptocoma rufescens efficiently inhibits proliferation of NF2-deficient schwannoma and meningioma cells and reduces the expression of the p65 subunit of NFκB.
+
+Consistent with previous reports6,7,25,26, we found that both cucurbitacin and goyazensolide induced cell cycle arrest at G2/M. In the cell cycle, early G1 is characterized by the induced expression of cyclin D from mitogen stimulation, which in turn activates CDK4/6 followed by increased levels of cyclin E and A at late G1. G1-to-S transition is promoted via CDK2, which binds to cyclins E and A. Cyclin B binds and activates CDC2 which is important for progression through G2 and exit from M phase. Thus, it is plausible that the G2/M arrest observed in cucurbitacin D and goyazensolide-treated schwannoma and meningioma cells was in part due to the reduced expression of cyclins E, A, and B, and CDC2.
+
+It has also been reported that cucurbitacin can induce polyploidy, leading to apoptosis7. Consistently, an increase in the population of cells with the DNA content greater than 4N was observed in cucurbitacin D-treated Ben-Men-1 cells. Interestingly, we observed a slight increase in the pro-apoptotic Bim protein in goyazensolide-treated schwannoma and meningioma cells. Experiments are in progress to determine if goyazensolide induces apoptosis in these cells. AKT is important for cell survival and reduction of phospho-AKT levels may lead to decreased cell survival. We observed that goyazensolide inhibited the expression of phospho-AKT and its downstream target phospho-PRAS40 in both schwannoma and meningioma cells. Intriguingly, we also found that cucurbitacin D reduced the phospho-AKT level in Ben-Men-1 meningioma cells. As cucurbitacins have been shown to inhibit the AKT pathway only in a breast cancer cell line7, these results suggest that inhibition of phospho-AKT may be cell-type specific.
+
+In summary, this study demonstrated the potent growth-inhibitory effects of cucurbitacin D and goyazensolide in NF2-deficient schwannoma and meningioma cells. Further in vivo testing of these two natural compounds using relevant animal models is warranted for their development as chemotherapeutic agents for NF2-associated tumors.
