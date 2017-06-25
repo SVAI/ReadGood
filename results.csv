@@ -145,6 +145,12 @@ tumor,shrink in,9 patient,9b2af021e7e9335a25f8d571dfee6f8c5045.txt
 six pa-tient,be treat with,bevacizumab,9b2af021e7e9335a25f8d571dfee6f8c5045.txt
 pa-tient,be treat with,bevacizumab,9b2af021e7e9335a25f8d571dfee6f8c5045.txt
 tumor blood flow,decrease by,51 %,9b2af021e7e9335a25f8d571dfee6f8c5045.txt
+bee propolis,stop,tumor,bee.txt
+bee propolis,stop tumor from,neurofibromatosis,bee.txt
+axis,be reduce by,co-injection of merlin overall,BMB-49-357.txt
+axis,be significantly reduce by,co-injection of merlin overall,BMB-49-357.txt
+secondary axis,be significantly reduce by,co-injection of merlin overall,BMB-49-357.txt
+secondary axis,be reduce by,co-injection of merlin overall,BMB-49-357.txt
 kinase,promote,neurofilament heavy chain phosphorylation merlin-iso2,db7d462b3ddb972d623dd7cae7543bf81c80.txt
 merlin,control,process,db7d462b3ddb972d623dd7cae7543bf81c80.txt
 downstream kinase,promote,neurofilament heavy chain phosphorylation merlin-iso2,db7d462b3ddb972d623dd7cae7543bf81c80.txt
@@ -252,3 +258,165 @@ ad-gfp cell ad-gfp cre infected mef,be treat to,prior harvest for immunoblot,ef4
 ad-gfp infected cell ad-gfp cre infected mef,be treat to,prior harvest for immunoblot,ef44f921f80b74f071f99d13432c1a5ce70a.txt
 ad-gfp infected cell ad-gfp cre mef,be treat for,18 hour,ef44f921f80b74f071f99d13432c1a5ce70a.txt
 ad-gfp infected cell ad-gfp cre infected mef,be treat for,18 hour,ef44f921f80b74f071f99d13432c1a5ce70a.txt
+malignant phenotype,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+ras-induced phenotype,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+ras-induced malignant phenotype,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+phenotype,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+nf2,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+full-length nf2,restore,contact inhi,J.Biol.Chem-1994-Tikoo-23387-90.txt
+merlin,control,cell proliferation,jcb1770893.txt
+contact-dependent inhibition,reduce,pegfr level,jcb1770893.txt
+contact-dependent inhibition,control membrane distribution upon,cell,jcb1770893.txt
+merlin,normally control,egfr activity,jcb1770893.txt
+contact-dependent inhibition,control,activity,jcb1770893.txt
+merlin,control,egfr activity,jcb1770893.txt
+contact-dependent inhibition,control activity upon,cell,jcb1770893.txt
+contact-dependent inhibition,control,membrane distribution,jcb1770893.txt
+inhibition,control,activity,jcb1770893.txt
+contact-dependent inhibition,control,activity of egfr,jcb1770893.txt
+inhibition,control,activity of egfr,jcb1770893.txt
+tr-egf internalization,promote tr-egf internalization in,conﬂ uent nf2wt-expressing ldc e =,jcb1770893.txt
+tr-egf internalization,promote tr-egf internalization in,conﬂ uent nf2wt-expressing ldc e,jcb1770893.txt
+tr-egf internalization,promote tr-egf internalization in,conﬂ nf2wt-expressing ldc e,jcb1770893.txt
+tr-egf internalization,promote tr-egf internalization in,conﬂ nf2wt-expressing ldc e =,jcb1770893.txt
+disruption,restore,egfr signaling in nf2wt-expressing ldc egf,jcb1770893.txt
+we,treat,nf2 −,jcb1770893.txt
+we,treat,specifi c inhibitor of egfr kinase activity,jcb1770893.txt
+144ducy distinct osteoblast-specifi c cis-acting ele-ment,control,expression,jcb1770893.txt
+144ducy distinct osteoblast-specifi c cis-acting ele-ment,control,expression of mouse osteocalcin gene mol cell biol,jcb1770893.txt
+g thomas 2000 conditional biallelic nf2 mutation,promote,manifes-tation of neurofi bromatosis type 2 gene,jcb1770893.txt
+g thomas conditional biallelic nf2 mutation,promote,manifes-tation of human neurofi bromatosis type 2 gene dev,jcb1770893.txt
+g thomas 2000 conditional biallelic nf2 mutation,promote,manifes-tation of human neurofi bromatosis type 2 gene dev,jcb1770893.txt
+g thomas conditional biallelic nf2 mutation,promote,manifes-tation,jcb1770893.txt
+g thomas 2000 conditional biallelic nf2 mutation,promote,manifes-tation,jcb1770893.txt
+g thomas 2000 conditional biallelic nf2 mutation,promote,manifes-tation of human neurofi bromatosis type 2 gene,jcb1770893.txt
+g thomas conditional biallelic nf2 mutation,promote,manifes-tation of human neurofi bromatosis type 2 gene,jcb1770893.txt
+g thomas 2000 conditional biallelic nf2 mutation,promote,manifes-tation of neurofi bromatosis type 2 gene dev,jcb1770893.txt
+g thomas conditional biallelic nf2 mutation,promote,manifes-tation of neurofi bromatosis type 2 gene,jcb1770893.txt
+g thomas conditional biallelic nf2 mutation,promote,manifes-tation of neurofi bromatosis type 2 gene dev,jcb1770893.txt
+nf2 defi ciency,promote metastasis by,adheren junction gene dev,jcb1770893.txt
+nf2 defi ciency,promote tumorigenesis by,adheren junction gene,jcb1770893.txt
+nf2 defi ciency,promote,metastasis,jcb1770893.txt
+nf2 defi ciency,promote metastasis by,destabilizing adheren junction gene,jcb1770893.txt
+nf2 defi ciency,promote tumorigenesis by,adheren junction gene dev,jcb1770893.txt
+nf2 defi ciency,promote tumorigenesis by,destabilizing adheren junction gene dev,jcb1770893.txt
+nf2 defi ciency,promote,tumorigenesis,jcb1770893.txt
+nf2 defi ciency,promote metastasis by,adheren junction gene,jcb1770893.txt
+nf2 defi ciency,promote tumorigenesis by,destabilizing adheren junction gene,jcb1770893.txt
+nf2 defi ciency,promote metastasis by,destabilizing adheren junction gene dev,jcb1770893.txt
+254-261 minireview microrna-296-5p,promote hye ree kim1 through,downregulation of nerve growth factor receptor,molce-40-4-254.txt
+minireview microrna-296-5p,promote kyung hee choi1 through,downregulation of nerve growth factor receptor,molce-40-4-254.txt
+254-261 minireview microrna-296-5p,promote kyung hee choi1 through,downregulation of nerve growth factor receptor,molce-40-4-254.txt
+minireview microrna-296-5p,promote hye ree kim1 through,downregulation of nerve growth factor receptor,molce-40-4-254.txt
+tumor growth,decrease,tumor size,natural_compounds.txt
+risk,control growth via,stereotactic radiation,natural_compounds.txt
+it,stop,tumor growth,natural_compounds.txt
+tumor growth,decrease tumor size in,patient,natural_compounds.txt
+cell,be treat with,various concentration of cucurbitacin d,natural_compounds.txt
+cell,be treat with,concentration of cucurbitacin d,natural_compounds.txt
+sch10545 cell,be treat with,cucurbitacin d,natural_compounds.txt
+sch10545 cell,be treat at,concentration near ic50,natural_compounds.txt
+sch10545 cell,be treat at,concentration,natural_compounds.txt
+we,decrease in,cyclin e1 expression in cucurbitacin cell,natural_compounds.txt
+we,decrease in,cyclin e1 expression in cucurbitacin d-treated cell,natural_compounds.txt
+sch10545 cell,treat with,concentration cucurbitacin d,natural_compounds.txt
+sch10545 cell,treat with,increase concentration cucurbitacin d,natural_compounds.txt
+sch10545 cell,treat with,increase concentration,natural_compounds.txt
+we,slight decrease in,cyclin e1 expression in cucurbitacin d-treated cell,natural_compounds.txt
+we,slight decrease in,cyclin e1 expression in cucurbitacin cell,natural_compounds.txt
+sch10545 cell,treat with,concentration,natural_compounds.txt
+vs xenograft,of decreasedgrowth,particularly those with neurofibromatosis type 2,nihms-85822.txt
+nude mouse,in decreasedgrowth,particularly those with neurofibromatosis type 2,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,vs,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,primary vs culturesderive from patient,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,primary vs culturesderive from human patient,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,vs culturesderive from human patient,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,vs culturesderive from patient,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,vs culturesderive,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,primary vs,nihms-85822.txt
+trastuzumab,reduce cell proliferation in,primary vs culturesderive,nihms-85822.txt
+trastuzumab,reduce,cell proliferation,nihms-85822.txt
+activation,pathwaypromote,proliferation in nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in human malignant peripheral nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in human peripheral nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation,nihms-85822.txt
+activation,pathwaypromote,proliferation in peripheral nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in human malignant nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in human nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in malignant nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+activation,pathwaypromote,proliferation in malignant peripheral nerve sheathtumor oncogene 200557 huijbregts rp,nihms-85822.txt
+bear v xenograft,be treat in,vestibular schwannoma,nihms-85822.txt
+v xenograft,be treat in,vestibular schwannoma,nihms-85822.txt
+v xenograft,be treat in,schwannoma,nihms-85822.txt
+bear v xenograft,be treat in,schwannoma,nihms-85822.txt
+merlin expression,be dramaticallyreduce in,human glioma,nihms147652.txt
+merlin expression,be dramaticallyreduce in,malignant glioma,nihms147652.txt
+merlin expression,be dramaticallyreduce in,glioma,nihms147652.txt
+merlin expression,be dramaticallyreduce in,human malignant glioma,nihms147652.txt
+nf2 knockdown,promote lastly,gliomagrowth,nihms147652.txt
+nf2 knockdown,promote,gliomagrowth,nihms147652.txt
+knockdownof merlin,promote,u251 glioma intracranial growthto monitor intracranial tumor growth,nihms147652.txt
+knockdownof merlin,promote,u251 glioma growthto monitor tumor growth,nihms147652.txt
+knockdownof merlin,promote,u251 glioma growthto monitor intracranial tumor growth,nihms147652.txt
+knockdownof merlin,promote,u251 glioma intracranial growthto monitor tumor growth,nihms147652.txt
+we,promote,apoptosis of tumor cell,nihms147652.txt
+knockdown expression,promote,tumor growth,nihms147652.txt
+increase expressionof inhibitor,decrease,expression of anactivator of wnt signaling in addition,nihms147652.txt
+increase expressionof inhibitor,decrease,expression of anactivator of canonical wnt signaling in addition,nihms147652.txt
+increase expressionof inhibitor,decrease,expression of anactivator of canonical wnt signaling,nihms147652.txt
+expressionof inhibitor,decrease,expression of anactivator of canonical wnt signaling in addition,nihms147652.txt
+increase expressionof inhibitor,decrease,expression of anactivator of wnt signaling,nihms147652.txt
+expressionof inhibitor,decrease,expression of anactivator of wnt signaling in addition,nihms147652.txt
+increase expressionof inhibitor,decrease,expression of anactivator,nihms147652.txt
+expressionof inhibitor,decrease,expression of anactivator of canonical wnt signaling,nihms147652.txt
+expressionof inhibitor,decrease,expression of anactivator of wnt signaling,nihms147652.txt
+expressionof inhibitor,decrease,expression of anactivator,nihms147652.txt
+merlin knockdown,promote collectively,glioma tumorgrowth,nihms147652.txt
+merlin expression,be decrease in,sporadic glioblastoma tumor,nihms147652.txt
+merlin expression,be decrease in,glioblastoma tumor,nihms147652.txt
+merlin knockdown,promote,glioma tumorgrowth,nihms147652.txt
+merlin regulatesthe mst/lats/yap,reduce,canonicalwnt signaling,nihms147652.txt
+tumor,shrink in,9 patient,nihms765691.txt
+antiangiogenic compound agm-1470,reduce,growth of tumor,nihms765691.txt
+antiangiogenic compound agm-1470,reduce,growth of nerve-sheath tumor,nihms765691.txt
+compound agm-1470,reduce,growth of tumor,nihms765691.txt
+compound agm-1470,reduce,growth of nerve-sheath tumor,nihms765691.txt
+six patient,be treat with,bevacizumab,nihms765691.txt
+patient,be treat with,bevacizumab,nihms765691.txt
+patient,stop treatment because of,effect,nihms765691.txt
+9,shrink after,bevacizumab treatment,nihms765691.txt
+patient,stop treatment because of,toxic effect,nihms765691.txt
+tumor blood volume,decrease by,%,nihms765691.txt
+tumor blood volume,decrease by,77 %,nihms765691.txt
+tumor blood flow,decrease by,51 %,nihms765691.txt
+bevacizumab,restore,normal blood,nihms765691.txt
+bevacizumab,potentially restore,more normal blood,nihms765691.txt
+bevacizumab,potentially restore,normal blood,nihms765691.txt
+bevacizumab,restore,more normal blood,nihms765691.txt
+bevacizumab,restore,blood,nihms765691.txt
+bevacizumab,potentially restore,blood,nihms765691.txt
+tumor volume,in decrease,30 %,nihms765691.txt
+vemurafenib resistance,restore,fig s7,nihms834156.txt
+vemurafenib resistance,restore,cul3 expression,nihms834156.txt
+increase vemurafenib resistance,restore,fig s7,nihms834156.txt
+increase vemurafenib resistance,restore,cul3 expression,nihms834156.txt
+vemurafenib resistance,restore,cul3 expression next,nihms834156.txt
+increase vemurafenib resistance,restore,cul3 expression next,nihms834156.txt
+melanoma,treat with,vemurafenib n engl j,nihms834156.txt
+braf cell,treat with,vemurafenib,nihms834156.txt
+braf mutant cell,treat with,vemurafenib,nihms834156.txt
+skin change intense pain natural remedy,treat,tumor of nervous system,remedies.txt
+skin change pain natural remedy,treat,tumor of nervous system,remedies.txt
+skin change intense pain natural remedy,treat,tumor of system,remedies.txt
+skin change intense pain remedy,treat,tumor of system,remedies.txt
+skin change pain remedy,treat,tumor of nervous system,remedies.txt
+skin change intense pain remedy,treat,tumor of nervous system,remedies.txt
+skin change pain remedy,treat,tumor,remedies.txt
+skin change intense pain remedy,treat,tumor,remedies.txt
+skin change pain remedy,treat,tumor of system,remedies.txt
+skin change pain natural remedy,treat,tumor of system,remedies.txt
+skin change intense pain natural remedy,treat,tumor,remedies.txt
+skin change pain natural remedy,treat,tumor,remedies.txt
+immune,reduce,size of tumor colloidal silver,remedies.txt
+immune,treat,tumor vitamin c,remedies.txt
+patient,improvement of,hearing,ymj-57-1535.txt
