@@ -1,4 +1,4 @@
-Subject,Relation,Object,Evidence
+Subject,Relation,Object,Source
 Human schwannoma,treat with Ponatinib,decreases viability of merlin-deficient HSC and vestibular schwannoma (VS) cells,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5458238/
 ponatinib,promote,g1 arrest of human schwann cell,28427224.txt
 ponatinib,promote,g1 cell-cycle arrest of schwann cell,28427224.txt
